@@ -1,4 +1,3 @@
 function myFunction() {
-  let a = 'Hello' //Remark 000
-    
+  let a = 'Hello' // Remark New 123456789
 }
